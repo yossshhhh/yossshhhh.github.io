@@ -9,6 +9,7 @@ Hi, I'm Adam! I'm currently a third year student at UC San Diego studying Cognit
 - Advanced Data Structures
 - Design and Analysis of Algorithms
 - Software Engineering
+- Data Science in Practice
 
 ## **Get to Know Me Better**
 [LinkedIn](https://www.linkedin.com/in/adam-yoshinaga-744914154/)
