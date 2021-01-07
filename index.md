@@ -3,13 +3,16 @@ Hi, I'm Adam! I'm currently a third year student at UC San Diego studying Cognit
 
 ## **Projects**
 
+
 ## **Coursework**
 - Computer Organization and Systems Programming
 - Advanced Data Structures
 - Design and Analysis of Algorithms
 - Software Engineering
 
-## **Contact Information**
+## **Get to Know Me Better**
 [LinkedIn](https://www.linkedin.com/in/adam-yoshinaga-744914154/)
+[The MQ](http://themq.org/author/ayoshinaga/)
+
 
 
