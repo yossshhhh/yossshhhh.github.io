@@ -40,7 +40,7 @@ Use `nc towel.blinkenlights.nl` to watch Star Wars Episode IV in the terminal!
 [The MQ](http://themq.org/author/ayoshinaga/)
 
 ## **Section Progress**
-- [x] About me
+[x] About me
 - [ ] Cool Commands
 - [ ] Projects
 - [x] Coursework
