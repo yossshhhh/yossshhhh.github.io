@@ -20,12 +20,12 @@ In the words of Kurt Vonnegut, one of my favorite authors:
 Hi, I'm Adam! I'm currently a third year student at UC San Diego studying Cognitive Science w/ specialization in Machine Learning and minoring in Computer Science. I'm interested in Software Engineering, Data Science, as well as Computer Security. In my free time, I like to go to concerts (mostly metal and edm), play hockey, read/write ~~sadtire~~ satire, and run. I also drive buses at UCSD.
 
 ## **Cool Commands**
->This section is also in progress and will be updated regularly.
+>This section is in progress and will be updated regularly.
 
 Use `nc towel.blinkenlights.nl` to watch Star Wars Episode IV in the terminal!
 
 ## **Projects**
->In progress :)
+>Also in progress :)
 
 ## **Coursework**
 - Computer Organization and Systems Programming
