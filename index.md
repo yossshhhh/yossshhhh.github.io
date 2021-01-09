@@ -8,6 +8,7 @@ Hi, I'm Adam! I'm currently a third year student at UC San Diego studying Cognit
 
 ## **Cool Commands**
 >This section is also in progress and will be updated regularly.
+
 Use `nc towel.blinkenlights.nl` to watch Star Wars Episode IV in the terminal!
 
 ## **Projects**
